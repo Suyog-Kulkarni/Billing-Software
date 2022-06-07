@@ -69,7 +69,7 @@ namespace p1
 
         private void kryptonButton1_Click(object sender, EventArgs e)
         {
-            /* if (kryptonTextBox1.Text == u1 && kryptonTextBox2.Text == Convert.ToString(p1))
+            if (kryptonTextBox1.Text == u1 && kryptonTextBox2.Text == Convert.ToString(p1))
              {
                  Form2 f2 = new Form2();
                  f2.Show();
@@ -81,12 +81,9 @@ namespace p1
              }
              else
              {
-                 KryptonMessageBox.Show("Bhag Chutiye");
-             }*/
+                 KryptonMessageBox.Show("Wrong Password");
+             }
 
-            Form3 f3 = new Form3();
-            this.Hide();
-            f3.Show();
 
 
 
