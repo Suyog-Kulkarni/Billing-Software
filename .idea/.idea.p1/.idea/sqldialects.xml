@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/p1/Form3.cs" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/p1/Form4.cs" dialect="GenericSQL" />
+  </component>
+</project>
